@@ -1,6 +1,6 @@
-# title
+# Title
 
-## author
+### Author
 
 Paragraph 1.
 
